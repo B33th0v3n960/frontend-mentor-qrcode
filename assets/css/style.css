@@ -10,8 +10,9 @@
 }
 
 body {
-  height: 100vh;
+  min-height: 100vh;
   font-size: 1.5rem;
+  padding: 2rem;
   background-color: var(--background-color);
   display: flex;
   align-items: center;
